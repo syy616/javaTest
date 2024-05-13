@@ -4,22 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d4d7cfa-9a99-419a-86bd-494410aa068b" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-Test.iml" afterDir="false" />
+    <list default="true" id="5d4d7cfa-9a99-419a-86bd-494410aa068b" name="Changes" comment="20240513提交">
+      <change afterPath="$PROJECT_DIR$/HomeWork01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/java-Test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-Test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-Test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-Test/Welcome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-Test/java-Test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -49,7 +51,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/java-Test",
+    "last_opened_file_path": "E:/myFile/后端-mine/java-Test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,21 +61,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="java-Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java-Test" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,6 +71,7 @@
       <updated>1709195227012</updated>
       <workItem from="1709195229222" duration="7401000" />
       <workItem from="1709270782842" duration="1615000" />
+      <workItem from="1715597453791" duration="2026000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -93,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709271563691</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20240513提交">
+      <option name="closed" value="true" />
+      <created>1715597538805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715597538805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="20240513提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240513提交" />
   </component>
 </project>
